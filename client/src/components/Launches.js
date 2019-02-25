@@ -31,7 +31,6 @@ export class Launches extends Component {
               if (error) {
                 console.log('apollo data fetch error', error);
               }
-              console.log(data)
               return <Fragment>
                 {
                   data.launches.map(launch => (
