@@ -1,18 +1,12 @@
 # SpaceX Launch Stats
 
+rce
+rcf
+rafcp (props)
+rarc - arrow function
+rcl
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
-"dependencies": {
-    "axios": "^0.18.0",
-    "concurrently": "^4.0.1",
-    "cors": "^2.8.5",
-    "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
-    "graphql": "^14.0.2"
-  },
-  "devDependencies": {
-    "nodemon": "^1.18.6"
-  }
 Prefix	Method
 imp→	import moduleName from 'module'
 imn→	import 'module'
